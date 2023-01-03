@@ -1,2 +1,2 @@
-# FRONT-END-CLUB-GALERIA-RESPONSIVA-COM-CAIXA-DE-PESQUISA
-ESTE E UM PROJETO DO CANAL FRONT END CLUB FEITO COM HTML CSS E JAVASCRIPT PARA INICIANTES EM PROGRAMACAO WEB E NAO SO.
+# Responsive Photo Gallery with Search-Box
+In this project I made photo gallery page that permits us to search for a specific type of images. 
